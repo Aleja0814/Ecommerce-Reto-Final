@@ -1,0 +1,106 @@
+/* HEADER */
+.margen{
+    width: 100%;
+    background-color:rgba(10, 66, 104, 0.856);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+.navbar{
+display: flex;
+width: 100%;
+
+}
+.container-fluid{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.navbar-nav{  
+    justify-content: space-between;
+    width: 100%;
+}
+
+.nav-link{
+color: white;
+}
+.navbar-brand{
+    background-color: white;
+    border-radius: 5px;
+    padding: 1%;
+    font-size: 150%;
+    color: rgba(10, 66, 104, 0.856);
+    font-weight: bold;
+    margin-right: 35%;
+} 
+
+.dropdown-item:hover{
+    background-color:rgba(10, 66, 104, 0.856);
+    color: white;
+}
+.carrito{
+    position: relative;
+}
+.carrito-Cantidad{
+    position:absolute;
+    background-color: white;
+    width: 40%;
+    border-radius: 10px;
+    color: black;
+    left: 50%;
+    bottom: 50%;
+    text-align: center;
+   
+}
+
+
+/* MAIN */
+main{
+    padding-top: 2%;
+    margin-left:5%;
+    margin-right:5%;
+    
+}
+.card{
+  background-image: url(https://i.ibb.co/QPdvvxP/fondo.jpg);  
+ 
+}
+
+.nav-pills .nav-link.active{
+    background-color:rgba(10, 66, 104, 0.856);
+
+}
+.nav{
+    margin-bottom: 3%;
+}
+
+/* MODAL */
+.modal-body{
+    background-image: url(https://i.ibb.co/QPdvvxP/fondo.jpg) ;
+    background-size:cover;
+    
+}
+
+/* FOOTER */
+footer {  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+    padding: 1%;
+    background-color: rgba(10, 66, 104, 0.856);
+    
+  }
+
+ footer svg{
+    margin-left: .5%;
+    color: white;
+ }
+
+  footer div {
+    color:white;
+    padding-left: 1%;
+    font-size: 1.3em;
+    
+  }

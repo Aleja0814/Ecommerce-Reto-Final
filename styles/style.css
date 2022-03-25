@@ -1,0 +1,145 @@
+
+/* HEADER */
+.margen{
+    width: 100%;
+    background-color:rgba(10, 66, 104, 0.856);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+}
+.navbar{
+display: flex;
+width: 100%;
+
+}
+.container-fluid{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.navbar-nav{  
+    justify-content: space-between;
+    width: 100%;
+}
+
+.nav-link{
+color: white;
+}
+.navbar-brand{
+    background-color: white;
+    border-radius: 5px;
+    padding: 1%;
+    font-size: 150%;
+    color: rgba(10, 66, 104, 0.856);
+    font-weight: bold;
+    margin-right: 38%;
+} 
+
+.dropdown-item:hover{
+    background-color:rgba(10, 66, 104, 0.856);
+    color: white;
+}
+
+/* MAIN */
+main{
+    padding-top: 5.6%;
+    margin-left:0;
+    margin-right:0;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 100px;
+    grid-gap: 20px 60px;
+    background-image: url(https://i.ibb.co/QPdvvxP/fondo.jpg);
+    
+}
+
+.imgBienvenida{
+    
+    padding: 10px;
+    text-align: center;
+    grid-column: 1/7;
+    grid-row:1/2;
+    display: flex;
+    justify-content: center;
+
+}
+.imgBienvenida >img{
+    
+    align-items: center;
+    width: 50%;  
+  
+}
+.imgPerros{
+    background-color: rgba(10, 66, 104, 0.856);
+    padding: 10px;
+    text-align: center;
+    grid-column: 2/4;
+    grid-row:2/3;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.imgPerros a>img{
+    width: 60%; 
+    cursor: pointer;
+}
+
+.imgGatos{
+    background-color: rgba(10, 66, 104, 0.856);
+    padding: 10px;
+    text-align: center;
+    grid-column: 4/6;
+    grid-row:2/3;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.imgGatos a>img{
+    width: 60%; 
+    cursor: pointer;
+}
+.carrito{
+    position: relative;
+}
+.carrito-Cantidad{
+    position:absolute;
+    background-color: white;
+    width: 40%;
+    border-radius: 10px;
+    color: black;
+    left: 50%;
+    bottom: 50%;
+    text-align: center;
+   
+}
+
+/* FOOTER */
+footer {  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+    padding: 1%;
+    background-color: rgba(10, 66, 104, 0.856);
+  }
+
+ footer svg{
+    margin-left: .5%;
+    color: white;
+ }
+
+  footer div {
+    color:white;
+    padding-left: 1%;
+    font-size: 1.3em;
+    
+  }
+
+

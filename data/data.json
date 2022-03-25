@@ -1,0 +1,383 @@
+{
+  "Productos": [
+    {
+      "id": 1,
+      "name": "Limpiador de huellas de perro-Azul",
+      "description": "Evita que tu mascota se ensucie en tu casa: el cepillo 360° puede limpiar la suciedad, el barro, los excrementos, los gérmenes y cualquier impureza de las patas de tu mascota antes de entrar en tu casa.",
+      "price": 62379,
+      "image": "https://i.ibb.co/D4ZXdtz/Perro1.jpg",
+      "categorie": "Perros"
+    },
+    {
+      "id": 2,
+      "name": "Cama touch grande-Azul",
+      "description": "Cama acogedora con cojín independiente de doble faz, cálido o frio lo que permite un uso en cualquier clima, también puede ser utilizado como colchoneta para llevar en guacales o paseos sin tener que transportar toda la cama, forro con cierres en cremallera para facilitar la limpieza o lavado.",
+      "price": 89900,
+      "image": "https://i.ibb.co/r7r6P3S/Perro2.jpg",
+      "categorie": "Perros"
+    },
+    {
+      "id": 3,
+      "name": "Abrigo impermeable-Rojo",
+      "description": "Abrigo en tela impermeable para perros, con capucha graduable, broches plásticos, cinta reflectiva para que vean a tu perro los carros o motos. Y abertura para sacar la correa o arnés.",
+      "price": 55000,
+      "image": "https://i.ibb.co/KD9n4YX/Perro3.jpg",
+      "categorie": "Perros"
+    },
+    {
+      "id": 4,
+      "name": "Correa retráctil automática de 5m",
+      "description": "Correa retráctil automática para perros pequeños y medianos. Correa flexible de tracción Mango grande para fácil agarre, incluso con mitones o guantes. Agarre suave.",
+      "price": 30000,
+      "image": "https://i.ibb.co/mBtBkt5/Perro4.jpg",
+      "categorie": "Perros"
+    },
+    {
+      "id": 5,
+      "name": "Comedero automático",
+      "description": "Recipientes completamente impenetrables que sirven una ración de comida previamente establecida en la hora que se ha programado. De ese modo alguien que pasa poco tiempo en casa no tiene por qué preocuparse de alimentar a su perro porque el comedero robot ya lo hace por él.",
+      "price": 350000,
+      "image": "https://i.ibb.co/CQ1Bx0D/Perro5.jpg",
+      "categorie": "Perros"
+    },
+    {
+      "id": 6,
+      "name": "Bolso transportador perros pequeños",
+      "description": "Diseñada para perros chicos y sus dueños que siempre están buscando la siguiente aventura. Ligera, pero resistente. Tejido de nylon extra resistente. ",
+      "price": 143000,
+      "image": "https://i.ibb.co/Cn931dT/Perro6.jpg",
+      "categorie": "Perros"
+    },
+    {
+      "id": 7,
+      "name": "Bolso de viaje y organizador",
+      "description": "La bolsa de viaje para perro proporciona múltiples bolsillos de varios tamaños, proporciona gran flexibilidad para organizar sus accesorios para mascotas. Que usted tendrá un feliz tiempo de viaje con su mascota hasta una semana de distancia.",
+      "price": 44000,
+      "image": "https://i.ibb.co/rpcCqx3/Perro7.jpg",
+      "categorie": "Perros"
+    },
+    {
+      "id": 8,
+      "name": " Juguete limpiadientes para morder de 10cm",
+      "description": "Novedoso cepillo de dientes autolimpiador para perros. Contiene una base estabilizadora para que tu mascota pueda sujetar el cepillo de dientes con facilidad. Favorece a las mascotas a limpiarse los dientes todos los días.",
+      "price": 22000,
+      "image": "https://i.ibb.co/1vTmh6B/Perro8.jpg",
+      "categorie": "Perros"
+    },
+    {
+      "id": 9,
+      "name": " Juego de tenis con mancuernas masticar",
+      "description": "Hecho por hilo de algodón trenzado. Una buena opción para que tu mascota mantenga los dientes y las encías de la mascota limpios y saludables y satisfaga sus deseos de masticación.",
+      "price": 20350,
+      "image": "https://i.ibb.co/JtgFR1r/Perro9.jpg",
+      "categorie": "Perros"
+    },
+    {
+      "id": 10,
+      "name": "Juguete Woof Glider",
+      "description": "El juguete Woof Glider tiene una base plana especialmente diseñada sobre la cual se montan topes de goma blanda. Simplemente lance el juguete Woof Glider a su perro y observe cómo se desliza sobre el piso mientras su mascota lo persigue.",
+      "price": 9500,
+      "image": "https://i.ibb.co/fFqxk8Q/Perro10.jpg",
+      "categorie": "Perros"
+    },
+    {
+      "id": 11,
+      "name": "Pelota de limpieza de dientes",
+      "description": "Este producto consiste en dos pequeñas pelotas de goma, de seis centímetros de diámetro cada una. Están fabricadas con caucho natural para que tu perro pueda morderlas sin que resulten tóxicas. Son de material resistente a fuertes mordeduras y tienen fragancia de menta. Son muy útiles para limpiar los dientes.",
+      "price": 60000,
+      "image": "https://i.ibb.co/VjFC8h7/Perro11.jpg",
+      "categorie": "Perros"
+    },
+    {
+      "id": 12,
+      "name": "Juguete chupo",
+      "description": "Espectacular dispensador de snacks con lazo y chupa de succión, que se pega a superficies planas, haciendo que tu perro juegue con ella. Cuenta con un dispensador de alimentos o snacks que hará que tu perro esté feliz jugando e interactuando con su juguete dispensador. Su diseño ayuda también a la limpieza de los dientes de tu perro.",
+      "price": 45000,
+      "image": "https://i.ibb.co/pPLZkJk/Perro12.jpg",
+      "categorie": "Perros"
+    },
+    {
+      "id": 13,
+      "name": "Kong Classic-Rojo",
+      "description": "El KONG Classic ha sido el juguete Kong con más reconocimiento en los últimos 40 años. Su compuesto de goma natural roja rebota muy bien y es perfecto para perros a los que les gusta masticar.",
+      "price": 48400,
+      "image": "https://i.ibb.co/41LrxSN/Perro13.jpg",
+      "categorie": "Perros"
+    },
+    {
+      "id": 14,
+      "name": "Juguete interactivo ",
+      "description": "Este dispensador permite a su mascota ejercitarse mientras se alimenta, apto para todas las edades. Es transparente por lo que permite que su mascota vea, huela y escuche el contenido y así se vea motivado a sacar el alimento. Creado para ralentizar la alimentación y así evitar hinchazón y obesidad en la mascota.",
+      "price": 66000,
+      "image": "https://i.ibb.co/25Fpvgv/Perro14.jpg",
+      "categorie": "Perros"
+    },
+    {
+      "id": 15,
+      "name": "Pañoleta verde Dog Lovers",
+      "description": "Pañoleta para perros Anti-baba, Antifluido Doble faz con un original diseño exclusivo de perritos y texto en color verde que contrasta perfectamente con su otra cara, esta pañoleta está diseñada totalmente a mano con telas de alta calidad y completamente impermeables por esto las llamamos anti-babitas, viene en dos tamaños. y es perfecta para perros que no soportan la ropa, pero deben estar a la moda.",
+      "price": 33000,
+      "image": "https://i.ibb.co/0sWbyhg/Perro15.jpg",
+      "categorie": "Perros"
+    },
+    {
+      "id": 16,
+      "name": "Comedero lento-Verde",
+      "description": "El tazón de alimentación lenta está cuidadosamente diseñado para ralentizar la alimentación que anima a la mascota a comer o beber a un ritmo más lento evitando la indigestión, los vómitos y la hinchazón.",
+      "price": 39000,
+      "image": "https://i.ibb.co/x7W2qk7/Perro16.jpg",
+      "categorie": "Perros"
+    },
+    {
+      "id": 17,
+      "name": "Localizador Bluethooth de mascotas",
+      "description": "Localizador Inteligente Anti-Pérdida Bluetooth. Protege a tus mascotas de perderse.",
+      "price": 20000,
+      "image": "https://i.ibb.co/8r0rT5G/Perro17.jpg",
+      "categorie": "Perros"
+    },
+    {
+      "id": 18,
+      "name": "Tapete de entrenamiento",
+      "description": "Fácil de limpiar, material completamente lavable, por lo tanto, tu mascota podrá usarlo muchas veces. Se trata de una bandeja que se ve y se siente como césped y está impregnada con agentes antimicrobianos y un olor atrayente para que tu perro lo utilice. Haz que tu perro aprenda a hacer sus necesidades en el lugar adecuado.",
+      "price": 62000,
+      "image": "https://i.ibb.co/pnTNLLb/Perro18.jpg",
+      "categorie": "Perros"
+    },
+    {
+      "id": 19,
+      "name": "Cepillo para peinar doble de madera ",
+      "description": "El Cepillo 2 en 1 para perros es lo que estabas buscando para que tu perro luzca un pelaje como nunca, libre de enredos, con mucho volumen y un aspecto saludable. Este es un sencillo accesorio que te ayudará con el aseo de tu mascota, para que siempre luzca un pelo impecable sin dañar su piel ni maltratar su pelo. Es apto para utilizarlo en ejemplares con cualquier tipo de pelaje.",
+      "price": 17900,
+      "image": "https://i.ibb.co/BLSrgfm/Perro19.jpg",
+      "categorie": "Perros"
+    },
+    {
+      "id": 20,
+      "name": "Juego de gafas con casco para mascotas",
+      "description": "Si a tu mascota le gusta seguirte cuando subes a tu motocicleta o scooter, debe llevar equipo de seguridad, que incluye gafas y, por supuesto, un casco. El casco y las gafas para perro son adecuados para el uso diario, participar en fiestas, bodas y vacaciones; también puedes vestir a tus perros para que sean llamativos y encantadores.",
+      "price": 66200,
+      "image": "https://i.ibb.co/XbncVjQ/Perro20.jpg",
+      "categorie": "Perros"
+    },
+    {
+      "id": 21,
+      "name": "Guante removedor de pelo",
+      "description": "Este guante está diseñado para ser extremadamente suave con su mascota ayudándole a remover el exceso de pelo y ayudando también con la limpieza de los muebles en su hogar.",
+      "price": 10000,
+      "image": "https://i.ibb.co/c8775wz/Gato1.jpg",
+      "categorie": "Gatos"
+    },
+    {
+      "id": 22,
+      "name": "Rascador nido de 2 bases-Beige",
+      "description": "Rascador para gatos con cueva en la parte inferior y un poste vertical con DOS bases. Con diseño único, está pensado para satisfacer el instinto natural de rascar para afilar las uñas. Exterior de suave peluche y cuerda de yute.",
+      "price": 170000,
+      "image": "https://i.ibb.co/5nPKnc1/Gato2.jpg",
+      "categorie": "Gatos"
+    },
+    {
+      "id": 23,
+      "name": "Comedero elevado",
+      "description": "La amplia abertura del cuenco puede evitar que las mascotas se cansen y los bordes redondeados facilitan que los gatos obtengan toda la comida.  La altura del cuenco razonable puede reducir la presión sobre el cuello, la artritis o la espalda del gato. ",
+      "price": 110000,
+      "image": "https://i.ibb.co/SxQJY2V/Gato3.jpg",
+      "categorie": "Gatos"
+    },
+    {
+      "id": 24,
+      "name": "Comedero automático",
+      "description": "Alimentador automático para gatos. Dispensador de alimentos con tapa de bloqueo giratorio, ventana visible, función de memoria, diseño sin obstrucciones y grabadora de voz, control de porciones, 4 comidas diarias para gatos.",
+      "price": 299000,
+      "image": "https://i.ibb.co/cvNWt3j/Gato4.jpg",
+      "categorie": "Gatos"
+    },
+    {
+      "id": 25,
+      "name": "Juguete túnel",
+      "description": "Este túnel que simula un cañón es perfecto para que tu gato juegue, se esconda y se divierta durante todo el día. Plegable para un almacenamiento compacto. Están cargados con resorte, por lo que se abren y están listos para jugar al instante.",
+      "price": 45800,
+      "image": "https://i.ibb.co/8rk4QGD/Gato5.jpg",
+      "categorie": "Gatos"
+    },
+    {
+      "id": 26,
+      "name": "Juguete de 3 niveles de diversión",
+      "description": "Juguete para gatos con diseño antideslizante. Posee tres niveles para una diversión emocionante. La construcción resistente permite el juego vigoroso para uno o más gatos. Las bolas están adentro. Cuando el gato atrapa la pelota, la pelota rodará, pero no se extenderá.",
+      "price": 38500,
+      "image": "https://i.ibb.co/48SZN7X/Gato6.jpg",
+      "categorie": "Gatos"
+    },
+    {
+      "id": 27,
+      "name": "Fuente de agua",
+      "description": "Esta espectacular fuente es ideal para que tu preciosa mascota disfrute del beber agua fresca, limpia y en permanente movimiento, evitando olores, gérmenes y demás bacterias generadas por el agua estancada gracias a su filtro que retiene la suciedad para evitar que tu mascota continúe bebiendo agua sucia o contaminada.",
+      "price": 105000,
+      "image": "https://i.ibb.co/B3XkPDV/Gato7.jpg",
+      "categorie": "Gatos"
+    },
+    {
+      "id": 28,
+      "name": "Collar personalizado con flores amarillas",
+      "description": "El collar está diseñado con un cierre seguro de liberación rápida para dejar que el gato libre cuando se pone presión en el collar del gato, de modo que el gato no se quede atrapado y evitar que su gato se asfixie. Perfecto para que tus gatos brillen en todo tipo de ocasiones.",
+      "price": 70000,
+      "image": "https://i.ibb.co/rywyf58/Gato8.jpg",
+      "categorie": "Gatos"
+    },
+    {
+      "id": 29,
+      "name": "Arenero",
+      "description": "Este tipo de baño iglú es ideal para que sus gatos entre a hacer sus necesidades de manera fácil, al ser un baño cerrado retiene gran parte del olor, tiene una puerta amplia para que el gato pueda entrar y salir sin ningún problema. Tiene un amplio espacio interior.",
+      "price": 10000,
+      "image": "https://i.ibb.co/Wg2YXqN/Gato9.jpg",
+      "categorie": "Gatos"
+    },
+    {
+      "id": 30,
+      "name": "Arnés y correa para caminar",
+      "description": "Cómodo arnés para exteriores: este arnés de gato realmente cómodo se ajusta perfectamente al cuerpo de tu amigo felino, mientras que todavía lo mantiene fresco con su malla de aire transpirable. Es suave y ligero para caminar a diario, correr, entrenamiento y cualquier recreación al aire libre.",
+      "price": 66500,
+      "image": "https://i.ibb.co/s2gvJK2/Gato10.jpg",
+      "categorie": "Gatos"
+    },
+    {
+      "id": 31,
+      "name": " Collar ajustable con cascabel",
+      "description": "Collar de gato brillante adornado con un corazón, con campana y cinturón de seguridad. Para que sus gatos sean más bonitos y felices. Diseñado a la moda y personalizado, perfecto para disfraces de fiesta, bodas y regalos navideños.",
+      "price": 80000,
+      "image": "https://i.ibb.co/PQXvY5J/Gato11.jpg",
+      "categorie": "Gatos"
+    },
+    {
+      "id": 32,
+      "name": "Juguete Flippity Fish",
+      "description": "Es un espectacular juguete que por medio de sus movimientos cautiva al gato y permite que este tenga horas de diversión para cuidar cortinas y muebles. Ayudará a mantener ocupado a su gato, físicamente en forma y mentalmente activo.",
+      "price": 80000,
+      "image": "https://i.ibb.co/yBChZ5C/Gato12.jpg",
+      "categorie": "Gatos"
+    },
+    {
+      "id": 33,
+      "name": "Kit de pelotas, ratones y sonajeros",
+      "description": ": Son especiales para que los gatitos los muevan por toda la casa. Son livianos, no les hacen daño y les va a encantar clavar sus uñitas y mover las peloticas.",
+      "price": 16000,
+      "image": "https://i.ibb.co/rkbBSwx/Gato13.webp",
+      "categorie": "Gatos"
+    },
+    {
+      "id": 34,
+      "name": "Pajarito de peluche con cuerda",
+      "description": "Juguetes ligero e Interactivo en colores verde y amarillo, con resorte y plumas. Pueden llevarse a cualquier lugar y mantener entretenidos a sus gatos mientras les da la estimulación física y mental.",
+      "price": 20000,
+      "image": "https://i.ibb.co/GdVm5M9/Gato14.jpg",
+      "categorie": "Gatos"
+    },
+    {
+      "id": 35,
+      "name": "Molino de viento interactivo-Azul",
+      "description": "Molino de viento interactivo y divertido con ventosa tocadiscos portátil y giratoria. El gato puede girar el juguete del molino de viento y mirarlo durante horas. Es un buen juguete para evitar la preocupación de dejar al gato solo en casa.",
+      "price": 24000,
+      "image": "https://i.ibb.co/GtkJR7g/Gato15.jpg",
+      "categorie": "Gatos"
+    },
+    {
+      "id": 36,
+      "name": "Cama en forma de donut",
+      "description": "Esta cama de diseño redondo para gatos es suave, cómoda, abrigada y transpirable, hace que tu gato adore dormir. Esta pequeña cama para gatos es adecuada para todas las estaciones, dale a tu mascota un sueño profundo.",
+      "price": 78000,
+      "image": "https://i.ibb.co/FXVKDqb/Gato16.jpg",
+      "categorie": "Gatos"
+    },
+    {
+      "id": 37,
+      "name": "Cama cueva",
+      "description": "Su felpa es suave y compacto, tiene funda de poliéster y cuenta con relleno de gomaespuma. Su cojín es reversible y su base es antideslizante.",
+      "price": 118000,
+      "image": "https://i.ibb.co/TLb6GTs/Gato17.jpg",
+      "categorie": "Gatos"
+    },
+    {
+      "id": 38,
+      "name": "Cama iglú",
+      "description": "Cama para gatos en forma de iglú. Está diseñado pensando en la comodidad y la intimidad que le gusta a tu mascota. Es el lugar perfecto para que tu pequeño gato se oculte o duerma.",
+      "price": 160000,
+      "image": "https://i.ibb.co/8cq0J64/Gato18.jpg",
+      "categorie": "Gatos"
+    },
+    {
+      "id": 39,
+      "name": "Bolso transportador-Azul",
+      "description": "Puedes llevar a su mascota a todas partes. Este porta-mascotas ofrece dos asas de conexión para un transporte equilibrado como un cinturón de seguridad doble o una correa para equipaje para asegurar el transporte.",
+      "price": 120000,
+      "image": "https://i.ibb.co/8rWN2bR/Gato19.jpg",
+      "categorie": "Gatos"
+    },
+    {
+      "id": 40,
+      "name": "Morral panorámico",
+      "description": "Esta nueva mochila con cápsula para mascotas es ideal para llevar a tu mascota a todas partes de forma curiosa, bonita, segura y confortable; con un diseño transparente, útil para calmar la ansiedad de las mascotas, proporciona a su mascota un entorno seguro. Transpirable y confortable.",
+      "price": 162000,
+      "image": "https://i.ibb.co/1QQ80jp/Gato20.jpg",
+      "categorie": "Gatos"
+    }
+  ],
+  "InformacionPago": [
+    {
+      "userName": "Alejandra Bastidas",
+      "userEmail": "ale_basti@hotmail.com",
+      "userTC": "1234567",
+      "tcExpiration": "10/23",
+      "tcCode": "345",
+      "infoProducts": [
+        [
+          "Producto: Limpiador de huellas de perro-Azul",
+          "Cantidad: 1",
+          "Precio unitario: $62379"
+        ],
+        [
+          "Producto: Correa retráctil automática de 5m",
+          "Cantidad: 3",
+          "Precio unitario: $30000"
+        ],
+        [
+          "Producto: Guante removedor de pelo",
+          "Cantidad: 4",
+          "Precio unitario: $10000"
+        ],
+        [
+          "Producto: Fuente de agua",
+          "Cantidad: 5",
+          "Precio unitario: $105000"
+        ]
+      ],
+      "totalAPagar": "$717379",
+      "id": 1
+    },
+    {
+      "userName": "Jualiana Bastidas",
+      "userEmail": "juli20047@gmail.com",
+      "userTC": "3456789",
+      "tcExpiration": "22/01",
+      "tcCode": "123",
+      "infoProducts": [
+        [
+          "Producto: Cama touch grande-Azul",
+          "Cantidad: 4",
+          "Precio unitario: $89900"
+        ],
+        [
+          "Producto: Juguete chupo",
+          "Cantidad: 3",
+          "Precio unitario: $45000"
+        ],
+        [
+          "Producto: Arnés y correa para caminar",
+          "Cantidad: 2",
+          "Precio unitario: $66500"
+        ]
+      ],
+      "totalAPagar": "$627600",
+      "id": 2
+    }
+  ]
+}
